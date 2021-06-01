@@ -1,0 +1,17 @@
+body{
+    color: #212529;
+    font-family: 'Roboto', sans-serif; 
+}
+
+footer {
+    color: #707070;
+}
+
+i {
+    color: #707070;
+}
+
+.col {
+    padding-bottom: 2rem;
+}
+
